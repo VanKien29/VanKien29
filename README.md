@@ -4,7 +4,7 @@
 
 ### Backend Developer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=20\&duration=3000\&pause=1000\&color=58A6FF\&center=true\&vCenter=true\&width=650\&lines=Laravel+%7C+Vue.js+%7C+Java;Backend+%26+Development;Building+useful+products;Always+learning+new+things...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=20\&duration=3000\&pause=1000\&color=58A6FF\&center=true\&vCenter=true\&width=650\&lines=Laravel+%7C+Vue.js+%7C+Java;Backend+Development;Building+useful+products;Always+learning+new+things...)](https://git.io/typing-svg)
 
 <br>
 
