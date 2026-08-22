@@ -1,16 +1,29 @@
 <div align="center">
 
-# 👋 Hi, I'm Văn Kiên
+# VĂN KIÊN
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&pause=1000\&color=36BCF7\&center=true\&vCenter=true\&width=600\&lines=Full-stack+Developer;Laravel+%7C+Vue.js+%7C+Java;Always+learning+new+things...)](https://git.io/typing-svg)
+### Backend Developer
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=20\&duration=3000\&pause=1000\&color=58A6FF\&center=true\&vCenter=true\&width=650\&lines=Laravel+%7C+Vue.js+%7C+Java;Backend+%26+Full-stack+Development;Building+useful+products;Always+learning+new+things...)](https://git.io/typing-svg)
 
+<br>
+
+<a href="mailto:vkien29062006@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-313131?style=flat-square&logo=gmail&logoColor=white">
+</a>
+<a href="https://vankien.site">
+  <img src="https://img.shields.io/badge/Website-Visit-313131?style=flat-square&logo=googlechrome&logoColor=white" alt="Website">
+</a>
+<a href="[YOUR_FACEBOOK](https://www.facebook.com/vankien296)">
+  <img src="https://img.shields.io/badge/Facebook-Follow-313131?style=flat-square&logo=facebook&logoColor=white">
+</a>
+
+<br>
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## Giới thiệu
 
 ```javascript
 const vanKien = {
@@ -25,110 +38,155 @@ const vanKien = {
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### Languages
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-### Backend & Frontend
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge\&logo=vuedotjs\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
-
-### Database & Tools
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=php,laravel,java,js,vue,html,css,tailwind,vite,mysql,git,github,postman&perline=13" />
 
 </div>
 
----
+<br>
 
-## 🚀 Featured Projects
-
-<table>
+<table align="center">
 <tr>
-<td width="50%">
+<td align="center"><b>Backend</b></td>
+<td>Laravel · PHP · Java · REST API</td>
+</tr>
 
-### 🏟️ SportGo
+<tr>
+<td align="center"><b>Frontend</b></td>
+<td>Vue.js · JavaScript · HTML · CSS · Tailwind CSS</td>
+</tr>
 
-Website quản lý & đặt sân thể thao trực tuyến.
+<tr>
+<td align="center"><b>Database</b></td>
+<td>MySQL · MariaDB</td>
+</tr>
 
-`Laravel` `Vue.js` `MySQL`
-
-🔗 **[Repository](YOUR_SPORTGO_REPO)**
-
-</td>
-
-<td width="50%">
-
-### 🎮 Game Server
-
-Game Server được xây dựng và phát triển bằng Java.
-
-`Java` `MariaDB`
-
-🔗 **[Repository](YOUR_GAME_REPO)**
-
-</td>
+<tr>
+<td align="center"><b>Tools</b></td>
+<td>Git · GitHub · Postman · Vite</td>
 </tr>
 </table>
 
 ---
 
-## 📊 GitHub Stats
+## Dự án nổi bật
 
-<div align="center">
+<table>
+<tr>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<td width="50%" valign="top">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+### SportGo
 
-</div>
+**Website quản lý và đặt sân thể thao trực tuyến**
 
----
+Hệ thống hỗ trợ tìm kiếm sân, đặt lịch, quản lý sân, giao dịch và vận hành nền tảng.
 
-## 📈 GitHub Activity
+**Stack**
 
-<div align="center">
-
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" />
+`Laravel` `Vue.js` `MySQL` `Vite`
 
 <br>
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=tokyonight" />
+<a href="https://github.com/VanKien29/SportGo">
+  <img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="Source Code">
+</a>
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=tokyonight" />
+<a href="https://sportgovn.online/">
+  <img src="https://img.shields.io/badge/Live_Demo-313131?style=flat-square&logo=googlechrome&logoColor=white" alt="Live Demo">
+</a>
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=tokyonight&utcOffset=7" />
+</td>
+
+<td width="50%" valign="top">
+
+### Game Server
+
+**Web Game Development**
+
+Phát triển we quản lý gameplay, hệ thống vật phẩm, phần thưởng, event và xử lý dữ liệu game.
+
+**Stack**
+
+`Laravel` `Vue.js` `MySQL`
+
+<br>
+
+<a href="https://github.com/VanKien29/Web_game">
+  <img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white">
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## GitHub Overview
+
+<div align="center">
+
+<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VanKien29&theme=github_dark" />
+
+<br>
+
+<img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VanKien29&theme=github_dark" />
+<img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VanKien29&theme=github_dark" />
+
+<br>
+
+<img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VanKien29&theme=github_dark" />
+<img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VanKien29&theme=github_dark&utcOffset=7" />
 
 </div>
 
 ---
 
-## 🤝 Connect with Me
+## Contribution
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:YOUR_EMAIL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)](YOUR_FACEBOOK)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VanKien29&theme=github-compact&hide_border=true&area=true" width="98%" />
 
 </div>
 
 ---
 
+## Hiện tại
+
+```text
+Learning     System Design · Clean Architecture
+Building     Full-stack Web Applications
+Improving    Backend Architecture · Performance
+Open to      Internship · Fresher · Junior Developer opportunities
+```
+
+---
+
+## Liên hệ
+
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+<a href="mailto:vkien29062006@gmail.com">
+  <img src="https://img.shields.io/badge/YOUR_EMAIL-Email-313131?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://vankien.site">
+  <img src="https://img.shields.io/badge/Website-Visit-313131?style=flat-square&logo=googlechrome&logoColor=white" alt="Website">
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<sub>
+Cảm ơn bạn đã ghé thăm.
+</sub>
 
 </div>
